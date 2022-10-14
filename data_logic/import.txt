@@ -1,0 +1,4 @@
+create the localschool_db database then call this under the following path:
+"C:\Program Files\MySQL\MySQL Server 8.0\bin>"
+
+mysql -u <root> -p localschool_db < localschool_db.sql
